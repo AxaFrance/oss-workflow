@@ -5,7 +5,7 @@
 
 ## Third Party Contribution
 
-You are encouraged to contribute to third party repository duriong your work time :
+You are encouraged to contribute to third party repository during your work time :
 - The subject must be related to a problem of your project or work
 - Your manager must be notified
 
