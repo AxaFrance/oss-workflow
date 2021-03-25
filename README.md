@@ -29,9 +29,7 @@ with a workflow :
 # 2) Validations
 
 - Technical director of the entity
-- Communities of practice:
-  - Security
-  - Software Craftmanship
+- Security validation
 
 ![Workflow step 2](./images/workflow-step2.png)
 
