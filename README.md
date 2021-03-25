@@ -18,9 +18,11 @@ with a workflow :
 - Code quality & practices
   - At least 60% of code coverage
 - CI (Continuous Integration) with all the internal tools
-- License ([MIT](https://github.com/AxaGuilDEv/react-oidc/blob/master/LICENSE) / Apache v2)
+- License: [MIT](https://github.com/AxaGuilDEv/react-oidc/blob/master/LICENSE)
+  - please note that you have to "Copy/Paste" the licence text because it has to specify the entity "AXA France IARD / AXA France VIE"
 - Mandatory files : README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, LICENCE.md, CHANGELOG.md, Templates : Issues, PR
 - At least one “Repository Maintainer“
+
 
 ![Workflow step 1](./images/workflow-step1.png)
 
