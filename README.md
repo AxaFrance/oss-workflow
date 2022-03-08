@@ -5,7 +5,7 @@
 
 ## Third Party Contribution
 
-You are encouraged to contribute to third party repository during your work time :
+You are encouraged to contribute to third party repositories during your work time:
 - The subject must be related to a problem of your project or work
 - Your manager must be notified
 
@@ -25,7 +25,7 @@ with a workflow :
 
 ## 1) Prerequisites
 
-Please consider to be **Open Source First** :
+Please consider to be **Open Source First**:
 - More feedbacks
 - Iterate quicker (open source does not mean to be perfect, but on the way to be perfect quicker)
 
