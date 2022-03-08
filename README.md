@@ -25,6 +25,19 @@ with a workflow :
 
 ## 1) Prerequisites
 
+Please consider to be **Open Source First** :
+- More feedbacks
+- Iterate quicker (open source does not mean to be perfect, but on the way to be perfect quicker)
+
+### Prerequisites for starting a new pure technical asset "Open Source First"
+
+- No business rule specific to AXA
+- License ([MIT](https://github.com/AxaGuilDEv/react-oidc/blob/master/LICENSE) / Apache v2)
+- Mandatory files : README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, LICENCE.md, CHANGELOG.md, Templates : Issues, PR
+- At least one “Repository Maintainer“
+
+### Prerequisites for an existing internal technical asset
+
 - No business rule specific to AXA
 - Code quality & practices
   - At least 60% of code coverage
@@ -49,7 +62,7 @@ with a workflow :
 - Use and force two factor Authentication everywhere it is possible: github, npm, nuget, etc.
 - Tokens must be kept private
 - Set up and maintain CI / CD
-  - use https://dev.azure.com/axaguildev
+  - use Github Action
   - use https://sonarcloud.io/organizations/axaguildev
 - Manage the roadmap
 - Manage “Issues” and “PullRequests”
