@@ -33,7 +33,7 @@ Please consider to be **Open Source First**:
 
 - No business rule specific to AXA
 - License ([MIT](https://github.com/AxaGuilDEv/react-oidc/blob/master/LICENSE) / Apache v2)
-- Mandatory files : README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, LICENCE.md, CHANGELOG.md, Templates : Issues, PR
+- Mandatory files : README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, LICENSE.md, CHANGELOG.md, Templates : Issues, PR
 - At least one “Repository Maintainer“
 
 ### Prerequisites for an existing internal technical asset
@@ -44,7 +44,7 @@ Please consider to be **Open Source First**:
 - CI (Continuous Integration) with all the internal tools
 - License: [MIT](https://github.com/AxaGuilDEv/react-oidc/blob/master/LICENSE)
   - please note that you have to "Copy/Paste" the licence text because it has to specify the entity "AXA France IARD / AXA France VIE"
-- Mandatory files : README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, LICENCE.md, CHANGELOG.md, Templates : Issues, PR
+- Mandatory files : README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, LICENSE.md, CHANGELOG.md, Templates : Issues, PR
 - At least one “Repository Maintainer“
 
 
